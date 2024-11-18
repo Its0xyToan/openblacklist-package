@@ -1,0 +1,28 @@
+{
+  "name": "openblacklist",
+  "version": "1.0.0",
+  "description": "A wrapper arround the OpenBlacklist app",
+  "main": "./build/bundle.cjs",
+  "type": "commonjs",
+
+  "exports": {
+    "import": "./build/bundle.js",
+    "require": "./build/bundle.cjs"
+  },
+
+  "files": [
+    "build/bundle.js",
+    "build/bundle.cjs",
+    "package.json",
+    "package-lock.json"
+  ],
+
+  "author": "OxyToan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "rollup": "^4.27.3"
+  }
+}
