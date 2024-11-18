@@ -17,6 +17,11 @@
     "package-lock.json"
   ],
 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Its0xyToan/openblacklist-package.git"
+  },
+
   "author": "OxyToan",
   "license": "ISC",
   "dependencies": {
