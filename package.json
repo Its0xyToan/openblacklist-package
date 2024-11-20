@@ -1,6 +1,6 @@
 {
   "name": "openblacklist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper arround the OpenBlacklist app",
   "main": "./build/bundle.cjs",
   "type": "commonjs",

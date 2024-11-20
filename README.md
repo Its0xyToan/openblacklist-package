@@ -1,3 +1,5 @@
-# OpenBlacklist Module
+# 🚀 OpenBlacklist
+> Documentation is available here: https://openblacklist.gitbook.io/api/modules/nodejs
 
-The documention for this module will be avaliable at the OpenBlacklist Documentation, soon
+## 🛌 Authors
+- OxyToan (yeah only mwe :()
